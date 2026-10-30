@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112" role="img" aria-labelledby="t d">
+<title id="t">ZEN STORE Z emblem</title><desc id="d">A faceted dimensional electric-blue Z symbol with cyan highlights.</desc>
+<defs>
+ <linearGradient id="g" x1="8" y1="5" x2="102" y2="108" gradientUnits="userSpaceOnUse"><stop stop-color="#43F2F1"/><stop offset=".35" stop-color="#12A7F1"/><stop offset=".72" stop-color="#126BE4"/><stop offset="1" stop-color="#092E78"/></linearGradient>
+ <linearGradient id="f" x1="24" y1="14" x2="83" y2="94" gradientUnits="userSpaceOnUse"><stop stop-color="#E3FFFF"/><stop offset=".28" stop-color="#50E5F4"/><stop offset=".65" stop-color="#168FE9"/><stop offset="1" stop-color="#0A3F9D"/></linearGradient>
+ <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g filter="url(#glow)">
+ <rect x="7" y="7" width="98" height="98" rx="28" fill="#061E4C" opacity=".28"/>
+ <path d="M31 10h50c12 0 21 9 21 21v50c0 12-9 21-21 21H31c-12 0-21-9-21-21V31c0-12 9-21 21-21Z" fill="url(#g)" stroke="#D0FFFF" stroke-opacity=".62" stroke-width="1.5"/>
+ <path d="M29 31h53L29 80h53" fill="none" stroke="#062D73" stroke-opacity=".4" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" transform="translate(1 2)"/>
+ <path d="M29 29h53L29 78h53" fill="none" stroke="url(#f)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M29 29h53L29 78h53" fill="none" stroke="#E6FFFF" stroke-opacity=".9" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m84 12 4.5 9.5 9.5 4.5-9.5 4.5L84 40l-4.5-9.5L70 26l9.5-4.5L84 12Z" fill="#E0FFFF"/>
+</g></svg>
